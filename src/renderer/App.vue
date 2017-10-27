@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'api-monk'
+    name: 'Api-Monk'
   }
 </script>
 
