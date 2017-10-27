@@ -4,11 +4,7 @@
             <v-toolbar-title>Api-Monk</v-toolbar-title>
         </v-toolbar>
         <main>
-            <v-content>
-                <v-container fluid fill-height>
-                    <main-form></main-form>
-                </v-container>
-            </v-content>
+            <main-form></main-form>
         </main>
         <v-footer color="indigo" app>
             <span class="white--text">&copy; 2017</span>
